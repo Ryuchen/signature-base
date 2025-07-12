@@ -9353,7 +9353,6 @@ cbcc37f37d326d3c3def52b3e3a42d14857d56ba6b6e13d02b3cd041cbb2aa3a;Chafer Toolset 
 29fe8ea77382e942bcb318c54ba98c3b33db48240591cc0b6ca61860a8070d01;Chafer Toolset Hash IOC - pan.zip
 3b826c09907aa099098bdafa876381c21dd72691ef3f26f1a5cb99795c7da067;Chafer Toolset Hash IOC - pc.txt
 29b24268c57e306e6ba881f80998188dc1e76e64621535380e4b67e8d086f658;Chafer Toolset Hash IOC - servlets-examples.war
-4194d1706ed1f408d5e02d672777019f4d5385c766a8c6ca8acba3167d36a7b9;Chafer Toolset Hash IOC - u.txt
 06b15c48ba3bda15a38ab840538ea919f6a721361c590956a7b389fdafefcabd;Chafer Toolset Hash IOC - v
 29b24268c57e306e6ba881f80998188dc1e76e64621535380e4b67e8d086f658;Chafer Toolset Hash IOC - web-console.war
 ade900cf62545fa8b56c15132fc4d5ffc5e160b08aa5679f5e438c154aed02b0;Chafer Toolset Hash IOC - winexe
@@ -11451,3 +11450,10 @@ a0fd0ceb95e775a48a95c00eab42fa5bb170f552005c38812fd03ab4cc14932e;ScreenConnect E
 69c7fc246c4867f070e1a7b80c7c41574ee76ab54a8b543a1e0f20ce4a0d5cde;ScreenConnect Exploitation IOCs - SSH Script d https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 aa9f5ed1eede9aac6d07b0ba13b73185838b159006fa83ed45657d7f333a0efe;ScreenConnect Exploitation IOCs - SSH Script Z.zip https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 6e8f83c88a66116e1a7eb10549542890d1910aee0000e3e70f6307aae21f9090;ScreenConnect Exploitation IOCs - Beacon driver.dll https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
+
+656e22c65bf7c04d87b5afbe52b8d800;perfctl IOCs https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/
+6e7230dbe35df5b46dcd08975a0cc87f;perfctl IOCs https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/
+835a9a6908409a67e51bce69f80dd58a;perfctl IOCs https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/
+cf265a3a3dd068d0aa0c70248cd6325d;perfctl IOCs https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/
+da006a0b9b51d56fa3f9690cf204b99f;perfctl IOCs https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/
+ba120e9c7f8896d9148ad37f02b0e3cb;perfctl IOCs https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/
